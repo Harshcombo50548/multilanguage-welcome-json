@@ -12,3 +12,6 @@ There are "welcome" values for all of the languages which [Google Translate](htt
 
 ## Contribute!
 Again, all of the "welcome" values use English as the source language and come from [Google Translate](https://translate.google.com/). If you find a mistake, or if you would like to improve the translation, or if you have an idea for improving this repo, you are welcome to make a PR. If you are new to Github, have a look at the [codeburst.io](https://codeburst.io/) article, [A Step by Step Guide to Making Your First GitHub Contribution](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940).
+
+## More
+If you are looking for a json database for the word **WELCOME**, please check out this [Repository](https://github.com/novellac/multilanguage-hello-json)
